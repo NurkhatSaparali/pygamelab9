@@ -1,4 +1,3 @@
-# python C:\Users\Nurhat\OneDrive\Desktop\pygamelab9\2.py
 import pygame, random
 pygame.init()
 width=600

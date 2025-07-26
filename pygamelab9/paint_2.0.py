@@ -1,4 +1,3 @@
-# python C:\Users\Nurhat\OneDrive\Desktop\pygamelab9\3.py
 import pygame
 pygame.init()
 #параметры окна

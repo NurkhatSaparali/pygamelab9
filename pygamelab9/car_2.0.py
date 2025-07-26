@@ -1,4 +1,3 @@
-# python C:\Users\Nurhat\OneDrive\Desktop\pygamelab9\1.py
 import pygame,sys,random,time
 from pygame.locals import *
 pygame.init()
